@@ -10,10 +10,6 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/emmanuel28em-code/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/emmanuel28em-code/azure-network-protocols)
 
-<h2>🤳Connect with me:</h2>
-
-[<img align="left" alt="Emmanuel | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Emmanuel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Emmanuel | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[Linkedin]: https://www.linkedin.com/in/emmanuel-morales-326022267/
 
 
